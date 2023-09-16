@@ -49,5 +49,5 @@ The chosen algorithm for object detection is DETr (Data-efficient Image Transfor
 -   Proficiency in machine learning and computer vision
 -   Familiarity with DETr algorithm
 -   Programming skills for software porting and optimization
--   Knowledge of GPU programming (OpenCL)
--   Experience with aerial image analysis
+-   Knowledge of GPU programming (OpenCL).
+-   Experience with aerial image analysis.
