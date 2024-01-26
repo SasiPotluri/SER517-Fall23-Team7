@@ -15,7 +15,7 @@ The motivation behind this project is to harness the potential of open-source AI
 
 #### Collaborators:
 
--   Kutta Technologies
+-   KT Technologies
 -   Ira Fulton School of Engineering - Software Engineering - ASU (Arizona State University) 
 
 
