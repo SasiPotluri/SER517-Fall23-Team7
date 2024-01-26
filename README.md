@@ -7,7 +7,7 @@
 
 #### Overview:
 
-The project aims to implement video-based object detection and recognition for aerial search and rescue, specifically designed to run on Kutta's Small Mission Computer (SMC).
+The project aims to implement video-based object detection and recognition for aerial search and rescue, specifically designed to run on KT's Small Mission Computer (SMC).
 
 #### Motivation:
 
